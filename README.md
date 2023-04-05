@@ -8,7 +8,9 @@
 
 
 ## Features
-Consumes movies API and generates stickers for whatsapp
+Consumes API's and generates stickers for whatsapp
+
+* Consumes an API that parses the title and image and generates stickers
 
 
 
